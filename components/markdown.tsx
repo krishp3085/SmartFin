@@ -1,5 +1,5 @@
 import React from "react";
-import markdownit from "markdown-it/index.js";
+import markdownit from "markdown-it";
 import DOMPurify from 'dompurify';
 
 type Props = {
